@@ -1,3 +1,3 @@
  <?php 
- echo "VERSION A - Pod IP is : ".$_SERVER['SERVER_ADDR'];
+ echo "VERSION B - Pod IP is : ".$_SERVER['SERVER_ADDR'];
  ?>
